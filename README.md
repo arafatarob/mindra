@@ -29,6 +29,16 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Real lead search and collection
+
+This app supports:
+
+- a real external lead provider via `LEAD_PROVIDER_URL` + `LEAD_PROVIDER_API_KEY`
+- stored leads in MongoDB via `MONGODB_URI`
+- an ingestion endpoint at `/api/leads/collect`
+
+Copy `.env.example` to `.env.local` and fill the values to enable real lead flow.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.

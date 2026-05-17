@@ -85,6 +85,7 @@ export default function LeadGenerationForm({ onProcessingStart }: LeadGeneration
                 placeholder="e.g. restaurants, gyms"
                 value={formData.industry}
                 onChange={(e) => setFormData(prev => ({ ...prev, industry: e.target.value }))}
+                required
               />
             </div>
             <div className="btn-row">

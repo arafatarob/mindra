@@ -1,0 +1,65 @@
+[
+  {
+    "userId": "arfa_support_chat_arafat_gmail_com",
+    "messages": [
+      {
+        "id": "4aiporkvf",
+        "sender": "user",
+        "text": "hfgd",
+        "timestamp": "2026-05-17T08:58:06.237Z",
+        "type": "text"
+      },
+      {
+        "id": "sfgkadavs",
+        "sender": "ai",
+        "text": "I'm analyzing your request regarding your account. Is there anything specific you need help with?",
+        "timestamp": "2026-05-17T08:58:07.248Z",
+        "type": "text"
+      },
+      {
+        "id": "9mdmlsy55",
+        "sender": "user",
+        "text": "paymetn issue",
+        "timestamp": "2026-05-17T08:58:15.725Z",
+        "type": "text"
+      },
+      {
+        "id": "2ag0781i9",
+        "sender": "ai",
+        "text": "I understand this is important. I can connect you with a live admin. Please click 'Talk to Human' below or I can try to help you here.",
+        "timestamp": "2026-05-17T08:58:16.726Z",
+        "type": "text"
+      },
+      {
+        "id": "4a36e88oz",
+        "sender": "ai",
+        "text": "Transferring you to a live admin... They will respond shortly.",
+        "timestamp": "2026-05-17T08:58:18.394Z",
+        "type": "text"
+      },
+      {
+        "id": "7bk12sl4o4",
+        "sender": "admin",
+        "text": "Hi! I'm the support admin. How can I help resolve this for you today?",
+        "timestamp": "2026-05-17T08:58:20.419Z",
+        "type": "text"
+      },
+      {
+        "id": "a65pk6xhe",
+        "sender": "user",
+        "text": "i have a payment issue please solve it",
+        "timestamp": "2026-05-17T08:59:03.718Z",
+        "type": "text"
+      },
+      {
+        "id": "m319jurn5",
+        "sender": "admin",
+        "text": "ok,,, please wait few a minits",
+        "timestamp": "2026-05-17T08:59:24.518Z",
+        "type": "text"
+      }
+    ],
+    "status": "admin",
+    "updatedAt": "2026-05-17T08:59:24.539Z"
+  }
+]

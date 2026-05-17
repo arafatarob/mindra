@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6a09837847bce93822538695",
+    "id": "6a09837847bce93822538695",
+    "username": "arafat@gmail.com",
+    "message": "fdsa",
+    "from": "Admin",
+    "createdAt": "2026-05-17T08:59:36.177Z",
+    "read": false
+  },
+  {
+    "username": "arafat25@gmail.com",
+    "message": "you need to upgrade your plan",
+    "from": "info@mindrasolutions.com",
+    "id": "1778002193579-4l0h1nre",
+    "createdAt": "2026-05-05T17:29:53.579Z"
+  },
+  {
+    "username": "arafat25@gmail.com",
+    "message": "HI",
+    "from": "info@mindrasolutions.com",
+    "id": "1777959825673-aoeepuy5",
+    "createdAt": "2026-05-05T05:43:45.673Z"
+  },
+  {
+    "username": "arafat25@gmail.com",
+    "message": "your plan is end, please repurchase the plan",
+    "from": "info@mindrasolutions.com",
+    "id": "1777957968467-cz59siiq",
+    "createdAt": "2026-05-05T05:12:48.467Z"
+  }
+]

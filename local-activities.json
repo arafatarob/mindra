@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "6a09eaf950a1afb6cd40cf58",
+    "id": "6a09eaf950a1afb6cd40cf58",
+    "user": "arafat25@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo realstate london",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T16:21:13.444Z"
+  },
+  {
+    "_id": "6a09e4d450a1afb6cd40cf57",
+    "id": "6a09e4d450a1afb6cd40cf57",
+    "user": "arafat25@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo resturent london",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:55:00.542Z"
+  },
+  {
+    "_id": "6a09e34850a1afb6cd40cf56",
+    "id": "6a09e34850a1afb6cd40cf56",
+    "user": "arafat25@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:48:24.743Z"
+  },
+  {
+    "_id": "6a09e0cf50a1afb6cd40cf55",
+    "id": "6a09e0cf50a1afb6cd40cf55",
+    "user": "arafat25@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo",
+      "location": "united state",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:37:51.878Z"
+  },
+  {
+    "_id": "6a09df9d50a1afb6cd40cf54",
+    "id": "6a09df9d50a1afb6cd40cf54",
+    "user": "arafat@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "founder",
+      "location": "united state",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:32:45.397Z"
+  },
+  {
+    "_id": "6a09dcb550a1afb6cd40cf53",
+    "id": "6a09dcb550a1afb6cd40cf53",
+    "user": "arafat@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "founder",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:20:21.228Z"
+  },
+  {
+    "_id": "6a09db6250a1afb6cd40cf52",
+    "id": "6a09db6250a1afb6cd40cf52",
+    "user": "arafat@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:14:42.089Z"
+  },
+  {
+    "_id": "6a09da0b50a1afb6cd40cf51",
+    "id": "6a09da0b50a1afb6cd40cf51",
+    "user": "arafat@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T15:08:59.008Z"
+  },
+  {
+    "_id": "6a09a7852a4b3dc5c5e83d54",
+    "id": "6a09a7852a4b3dc5c5e83d54",
+    "user": "arafat25@gmail.com",
+    "action": "Email scheduled",
+    "details": {
+      "to": "mdarafathossenaorb@gmail.com",
+      "subject": "test",
+      "scheduledAt": "2026-05-17T17:34",
+      "status": "scheduled"
+    },
+    "createdAt": "2026-05-17T11:33:25.422Z"
+  },
+  {
+    "_id": "6a09a6212a4b3dc5c5e83d53",
+    "id": "6a09a6212a4b3dc5c5e83d53",
+    "user": "arafat25@gmail.com",
+    "action": "Lead search started",
+    "details": {
+      "query": "ceo",
+      "location": "london",
+      "websiteUrl": null,
+      "volume": 5
+    },
+    "createdAt": "2026-05-17T11:27:29.554Z"
+  }
+]
